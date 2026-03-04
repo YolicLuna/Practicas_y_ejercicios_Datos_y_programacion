@@ -33,20 +33,22 @@ Este archivo presenta un caso de estudio real donde se actúa como analista de d
 
 ---
 
-### 3. **Pixar.sql** + **pixar_films.csv**
+### 3. **Pixar/** *(Carpeta)*
 **Objetivo:** Carga de datos desde archivos CSV e importación de información externa.
 
-Este archivo demuestra:
-- Creación de base de datos `Practicas` con tabla `Pixar`
-- **Importación de datos CSV** con el comando `LOAD DATA INFILE` desde `pixar_films.csv`
-- Archivo CSV incluido con datos reales de películas de Pixar (id, film, release_date, runtime, film_rating)
-- Manejo de valores nulos y conversión de datos (NULLIF)
-- Consultas prácticas sobre la tabla:
-  - Filtrado por rango de duración (BETWEEN)
-  - Ordenamiento y limitación de resultados (ORDER BY, LIMIT)
-  - Búsqueda de texto con patrones (LIKE)
-  - Uso de funciones de agrupación (COUNT, GROUP BY)
-  - Validación de existencia de registros (IF EXISTS)
+Esta carpeta contiene:
+- **Pixar.sql:** Script SQL que demuestra:
+  - Creación de base de datos `Practicas` con tabla `Pixar`
+  - **Importación de datos CSV** con el comando `LOAD DATA INFILE` desde `pixar_films.csv`
+  - Manejo de valores nulos y conversión de datos (NULLIF)
+  - Consultas prácticas sobre la tabla:
+    - Filtrado por rango de duración (BETWEEN)
+    - Ordenamiento y limitación de resultados (ORDER BY, LIMIT)
+    - Búsqueda de texto con patrones (LIKE)
+    - Uso de funciones de agrupación (COUNT, GROUP BY)
+    - Validación de existencia de registros (IF EXISTS)
+
+- **pixar_films.csv:** Archivo con datos reales de películas de Pixar (id, film, release_date, runtime, film_rating)
 
 **Habilidades practicadas:** Carga de datos, importación CSV, valores nulos, filtrado avanzado, búsqueda de patrones, funciones condicionales.
 
@@ -79,12 +81,13 @@ Este archivo contiene un **modelo de base de datos integral** para una empresa d
 
 1. Abre tu cliente de MySQL
 2. Ejecuta cada archivo SQL según el orden que desees
-3. Modifica las consultas y experimenta con diferentes condiciones
-4. Intenta crear tus propias consultas basadas en los modelos presentados
+3. Para los archivos en subcarpetas (ej: `Pixar/`), navega a esa carpeta o ajusta las rutas según sea necesario
+4. Modifica las consultas y experimenta con diferentes condiciones
+5. Intenta crear tus propias consultas basadas en los modelos presentados
 
 ## Recomendaciones de estudio
 
 - Comienza con `Analisis_con_MySQL.sql` para entender relaciones básicas
-- Continúa con `Pixar.sql` para practicar importación y filtrado
+- Continúa con `Pixar/Pixar.sql` para practicar importación y filtrado
 - Usa `caso_practico.sql` para aprender análisis de datos
 - Finaliza con `sql_Riaz.sql` para ver un modelo de negocio completo
