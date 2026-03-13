@@ -19,4 +19,19 @@ Una aplicación web interactiva desarrollada con **Streamlit** para gestionar un
 
 ---
 
+### Manejo_Excel - Transformación de Datos con Pandas
+
+Un proyecto que demuestra la manipulación y transformación de datos desde archivos Excel usando **Pandas**. El script realiza varias operaciones de procesamiento de datos:
+
+- **Lectura de Excel**: Carga datos desde archivos `.xlsx`
+- **Transformación de IDs**: Convierte IDs combinando las iniciales del nombre con el número original
+- **Formateo de texto**: Normaliza nombres (Title case) y profesiones (mayúsculas)
+- **Cálculos derivados**: Crea nuevas columnas con cálculos automáticos (ej: sueldo con descuento de impuestos)
+
+**Tecnologías utilizadas:**
+- Pandas (manipulación de datos)
+- OpenPyxl (lectura/escritura de archivos Excel)
+
+---
+
 Para explorar más ejercicios de Python, consulta las subcarpetas de este directorio.
