@@ -33,6 +33,17 @@ Esta carpeta contiene:
 
 ---
 
+### 2. **Analisis_serie_temporal/** *(Carpeta)*
+**Objetivo:** Análisis de series temporales con datos de divisas, incluyendo suavizado con medias móviles y descomposición estacional.
+
+Esta carpeta contiene:
+- **serie_temporal.ipynb:** Jupyter Notebook con descarga de datos de yfinance, cálculo de medias móviles, gráficos de series temporales y descomposición estacional
+- **requirements.txt:** Dependencias necesarias (yfinance, pandas, matplotlib, statsmodels)
+
+**Habilidades practicadas:** Descarga de datos financieros, procesamiento de series temporales, cálculo de medias móviles, visualización de tendencias, descomposición estacional.
+
+---
+
 ## Requisitos Generales
 
 - Python 3.7 o superior
