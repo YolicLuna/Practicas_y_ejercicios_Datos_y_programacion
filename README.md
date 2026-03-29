@@ -12,9 +12,19 @@ Cada carpeta en este repositorio representa un área específica de estudio o un
 
 ## Librerías y herramientas utilizadas
 
-- Python (NumPy, Pandas, Streamlit)
-- MySQL
+- **Python**: NumPy, Pandas, Streamlit, PyQt5, OpenPyXL
+- **Bases de datos**: MySQL
 - Y otras dependencias incluidas en los respectivos proyectos
+
+## Carpetas principales
+
+- **Python/**: Proyectos y ejercicios en Python (Tienda, Excel_Python, Formulario)
+- **Python_datos/**: Análisis de datos con Python (CO2, Series temporales)
+- **MySQL/**: Ejercicios y análisis con bases de datos MySQL
+
+## Otros Repositorios
+
+- **[AzureAI](https://github.com/YolicLuna/AzureAI)**: Prácticas y ejercicios relacionados con Azure AI y preparación para la certificación AI-102. Incluye ejercicios de Visión por Computadora, Procesamiento de Lenguaje Natural, y otros servicios de IA en Azure.
 
 ---
 
