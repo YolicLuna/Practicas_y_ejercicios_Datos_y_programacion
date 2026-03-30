@@ -1,4 +1,4 @@
-# ✅ Lista de Tareas - Aplicación con PyQt5
+# Lista de Tareas - Aplicación con PyQt5
 
 Aplicación de escritorio desarrollada en Python con PyQt5 para la gestión de tareas personales.
 Permite agregar, eliminar y marcar tareas como completadas, con persistencia de datos en archivo local.
