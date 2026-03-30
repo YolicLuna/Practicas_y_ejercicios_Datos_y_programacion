@@ -1,26 +1,29 @@
 # Lista de Tareas - Aplicación con PyQt5
 
 Aplicación de escritorio desarrollada en Python con PyQt5 para la gestión de tareas personales.
+
 Permite agregar, eliminar y marcar tareas como completadas, con persistencia de datos en archivo local.
 
 ---
 
 ## Tecnologías utilizadas
-* Python.
-* PyQt5 (interfaz gráfica).
-* Archivos de texto (persistencia de datos).
 
-Dependencias definidas en `requirements.txt` 
+* Python
+* PyQt5 (interfaz gráfica)
+* Archivos de texto (persistencia de datos)
+
+Dependencias definidas en `requirements.txt`.
 
 ---
 
 ## Estructura del proyecto
-```id="tree02"
+
+```
 Lista_de_Tareas/
 │
-├── lista_tareas.py   # Aplicación principal
-├── tareas.txt        # Almacenamiento de tareas
-├── requirements.txt  # Dependencias
+├── lista_tareas.py
+├── tareas.txt
+├── requirements.txt
 ```
 
 ---
@@ -29,63 +32,57 @@ Lista_de_Tareas/
 
 1. Instalar dependencias:
 
-```bash id="cmd10"
+```bash
 pip install -r requirements.txt
 ```
 
 2. Ejecutar la aplicación:
 
-```bash id="cmd11"
+```bash
 python lista_tareas.py
 ```
 
 ---
 
 ## Funcionalidades
-* Agregar nuevas tareas.
-* Eliminar tareas seleccionadas.
-* Marcar tareas como completadas.
-* Persistencia de tareas en archivo (`tareas.txt`).
-* Cambio visual de tareas completadas (tachado y color gris).
+
+* Agregar nuevas tareas
+* Eliminar tareas seleccionadas
+* Marcar tareas como completadas
+* Persistencia de tareas en archivo (`tareas.txt`)
+* Cambio visual de tareas completadas (tachado y color gris)
 
 ---
 
 ## Lógica de funcionamiento
-* Las tareas se almacenan en un archivo de texto en formato:
 
-```id="fmt1"
+Las tareas se almacenan en un archivo de texto con el siguiente formato:
+
+```
 tarea|estado
 ```
 
-Ejemplo real del archivo :
+Ejemplo:
 
-```id="fmt2"
+```
 Crear programa Python|1
 Probar programa|0
 ```
 
-* `1` → tarea completada
-* `0` → tarea pendiente
+* `1` indica tarea completada
+* `0` indica tarea pendiente
 
 Al iniciar la aplicación:
 
 * Se cargan las tareas desde el archivo
-* Se reconstruye el estado visual (completado/no completado)
+* Se reconstruye su estado visual
 
 ---
 
 ## Conceptos aplicados
-* Desarrollo de interfaces gráficas con PyQt5.
-* Manejo de eventos (botones y acciones).
-* Persistencia de datos en archivos.
-* Manipulación de widgets (`QListWidget`).
-* Separación de lógica mediante funciones.
-* Estado visual dinámico (tachado y colores).
 
----
-
-## Enfoque del proyecto
-Este proyecto simula un sistema básico de gestión de tareas, aplicando:
-* Interfaz de usuario.
-* Lógica de negocio.
-* Persistencia local.
+* Interfaces gráficas con PyQt5
+* Manejo de eventos
+* Persistencia de datos en archivos
+* Manipulación de listas en GUI (`QListWidget`)
+* Control de estado visual
