@@ -1,0 +1,3 @@
+Crear programa Python|1
+Probar programa|0
+Compartir proyecto|0
