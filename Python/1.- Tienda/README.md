@@ -28,7 +28,7 @@ streamlit run tienda.py
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 * Agregar productos con nombre, precio y cantidad.
 * Cálculo automático de subtotal por producto.
 * Visualización de los productos en una tabla dinámica.
@@ -37,7 +37,7 @@ streamlit run tienda.py
 
 ---
 
-##  Conceptos aplicados
+## Conceptos aplicados
 Este proyecto, aunque pequeño, demuestra conceptos importantes:
 * Manejo de estado en aplicaciones web (`session_state`).
 * Uso de formularios en Streamlit (`st.form`).
