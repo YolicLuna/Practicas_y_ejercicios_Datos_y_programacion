@@ -8,7 +8,7 @@ Proyecto de análisis del Índice de Felicidad Global utilizando Python para est
 Analizar datos de felicidad para identificar:
 * Factores que influyen en el bienestar de los países.
 * Correlaciones entre variables socioeconómicas y el índice de felicidad.
-* Tendencias y evolución temporal del bienestar global.
+* Tendencias y evolución temporal del bienestar global. 
 
 ---
 

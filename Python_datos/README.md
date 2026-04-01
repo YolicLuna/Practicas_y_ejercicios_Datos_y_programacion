@@ -6,7 +6,7 @@ Esta carpeta contiene prácticas orientadas a desarrollar habilidades en:
 * Visualización de datos.
 * Series temporales.
 * Interpretación de información.
-* Uso de datasets reales.
+* Uso de datasets reales. 
 
 ---
 
