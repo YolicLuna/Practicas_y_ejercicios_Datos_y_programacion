@@ -34,6 +34,17 @@ Análisis de datos financieros a lo largo del tiempo utilizando técnicas de ser
 
 ---
 
+### [Análisis del Índice de Felicidad](./Indice_de_felicidad)
+Análisis comparativo del Índice de Felicidad Mundial a lo largo de múltiples años.
+* Análisis de factores que influyen en la felicidad.
+* Comparación de países por región.
+* Tendencias temporales (2015-2019).
+* Correlación entre variables económicas y felicidad.
+
+**Enfoque:** análisis comparativo + tendencias + factores de felicidad
+
+---
+
 ## Enfoque de la carpeta
 Los proyectos de esta sección están orientados a:
 * Trabajar con datos reales.
