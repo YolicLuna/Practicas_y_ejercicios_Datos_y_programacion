@@ -45,6 +45,17 @@ Análisis comparativo del Índice de Felicidad Mundial a lo largo de múltiples 
 
 ---
 
+### [Análisis Superstore](./Superstore_analisis)
+Análisis de datos de ventas de una tienda para examinar el rendimiento empresarial.
+* Análisis de ventas y ganancias por región y categoría.
+* Identificación de subcategorías más rentables.
+* Impacto de descuentos en la ganancia.
+* Análisis por segmento de cliente.
+
+**Enfoque:** análisis de negocio + rentabilidad + patrones de venta
+
+---
+
 ## Enfoque de la carpeta
 Los proyectos de esta sección están orientados a:
 * Trabajar con datos reales.

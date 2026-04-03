@@ -1,7 +1,5 @@
-yfinance
 pandas
 matplotlib
-statsmodels
 jupyterlab
 notebook
 ipykernel
