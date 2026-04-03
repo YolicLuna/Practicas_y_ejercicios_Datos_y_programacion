@@ -49,6 +49,16 @@ Aplicación de escritorio para gestión de tareas personales.
 
 ---
 
+### [Calculadora con PyQt5](./5.-%20Calculadora)
+Aplicación de escritorio con interfaz gráfica para realizar operaciones matemáticas.
+* Operaciones básicas: suma, resta, multiplicación, división
+* Interfaz intuitiva con botones numéricos
+* Manejo de errores en cálculos inválidos
+
+**Tecnologías:** Python, PyQt5
+
+---
+
 ## Enfoque del repositorio
 Esta parte del repositorio refleja mi aprendizaje en:
 * Desarrollo de aplicaciones con Python

@@ -1,3 +1,14 @@
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346.svg)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-00758F.svg)
+![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B.svg)
+![PyQt5](https://img.shields.io/badge/PyQt5-GUI-51CF66.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37726.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-0173B2.svg)
+
 # Prácticas y Proyectos de Programación y Datos
 
 Repositorio que contiene proyectos prácticos enfocados en el aprendizaje y aplicación de:
@@ -34,22 +45,25 @@ Cada carpeta representa un área de estudio. Para más detalles, consulta el REA
 
 * **Python/**
   Proyectos de desarrollo en Python:
-  * Aplicación web (Streamlit).
-  * Procesamiento de Excel.
-  * Aplicación de escritorio (PyQt5).
-  * Gestor de tareas (Lista_de_Tareas).
+  * [Tienda](./Python/1.-%20Tienda) - Aplicación web interactiva con Streamlit.
+  * [Excel_Python](./Python/2.-%20Excel_Python) - Transformación y procesamiento de datos.
+  * [Formulario](./Python/3.-%20Formulario) - Registro de empleados con PyQt5.
+  * [Lista_de_Tareas](./Python/4.-%20Lista_de_Tareas) - Gestor de tareas con PyQt5.
+  * [Calculadora](./Python/5.-%20Calculadora) - Calculadora interactiva con PyQt5.
 
 ---
 
 * **Python_datos/**
   Proyectos de análisis de datos:
-  * Análisis de emisiones de CO₂ (EDA y correlación).
-  * Análisis de series temporales.
+  * [Análisis CO₂](./Python_datos/1.-%20Analisis_CO2) - EDA y correlación de emisiones de CO₂.
+  * [Serie Temporal](./Python_datos/2.-%20Analisis_serie_temporal) - Análisis de datos financieros a lo largo del tiempo.
+  * [Índice de Felicidad](./Python_datos/3.-%20Indice_de_felicidad) - Análisis comparativo del Índice de Felicidad Mundial.
+  * [Superstore](./Python_datos/4.-%20Superstore_analisis) - Análisis de ventas y rentabilidad empresarial.
 
 ---
 
 * **MySQL/**
-  Ejercicios y consultas SQL enfocadas en análisis de datos
+  Ejercicios y consultas SQL enfocadas en análisis de datos.
 
 ---
 
