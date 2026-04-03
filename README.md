@@ -41,7 +41,7 @@ Cada carpeta representa un área de estudio. Para más detalles, consulta el REA
 
 ---
 
-## Carpetas principales
+## Carpetas
 
 * **Python/**
   Proyectos de desarrollo en Python:
@@ -63,7 +63,11 @@ Cada carpeta representa un área de estudio. Para más detalles, consulta el REA
 ---
 
 * **MySQL/**
-  Ejercicios y consultas SQL enfocadas en análisis de datos.
+  Ejercicios y análisis de bases de datos SQL:
+  * [Análisis con MySQL](./MySQL/Analisis_con_MySQL.sql) - Consultas de análisis general.
+  * [Caso Práctico](./MySQL/caso_practico.sql) - Ejercicio práctico de base de datos.
+  * [SQL Riaz](./MySQL/sql_Riaz.sql) - Ejercicios adicionales de SQL.
+  * [Pixar](./MySQL/Pixar) - Análisis de datos de películas Pixar.
 
 ---
 
