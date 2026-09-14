@@ -1,0 +1,7 @@
+jupyter
+pandas
+snowflake-connector-python
+ipykernel
+"snowflake-connector-python[pandas]"
+snowflake-snowpark-python
+streamlit
