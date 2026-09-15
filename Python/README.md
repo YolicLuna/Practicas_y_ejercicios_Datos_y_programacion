@@ -39,7 +39,7 @@ Aplicación de escritorio para gestión de empleados con exportación a Excel.
 
 ---
 
-### [Lista de Tareas - PyQt5](./Lista_de_Tareas)
+### [Lista de Tareas - PyQt5](https://github.com/YolicLuna/Practicas_y_ejercicios_Datos_y_programacion/tree/main/Python/4.-%20Lista_de_Tareas)
 Aplicación de escritorio para gestión de tareas personales.
 * Creación y eliminación de tareas
 * Marcado de tareas completadas
