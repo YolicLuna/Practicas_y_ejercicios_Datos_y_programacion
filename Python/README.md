@@ -9,7 +9,7 @@ Repositorio que contiene proyectos prácticos desarrollados en Python, enfocados
 
 ## 📁 Proyectos
 
-### [Tienda - Aplicación con Streamlit](./Tienda)
+### [Tienda - Aplicación con Streamlit]([.//1.-%20Tienda))
 Aplicación web interactiva para simular la compra de productos.
 * Manejo de estado con Streamlit
 * Cálculo de subtotales y total
@@ -19,7 +19,7 @@ Aplicación web interactiva para simular la compra de productos.
 
 ---
 
-### [Transformación de Datos con Pandas](./Excel_Python)
+### [Transformación de Datos con Pandas]([./2.-%20Excel_Python))
 Proyecto de procesamiento de datos desde Excel aplicando transformaciones y limpieza.
 * Generación de IDs
 * Normalización de datos
@@ -29,7 +29,7 @@ Proyecto de procesamiento de datos desde Excel aplicando transformaciones y limp
 
 ---
 
-### [Registro de Empleados - PyQt5](./Formulario)
+### [Registro de Empleados - PyQt5]([./3.-%20Formulario))
 Aplicación de escritorio para gestión de empleados con exportación a Excel.
 * Interfaz gráfica (GUI)
 * Lógica de negocio (cálculo de sueldo neto)
@@ -39,7 +39,7 @@ Aplicación de escritorio para gestión de empleados con exportación a Excel.
 
 ---
 
-### [Lista de Tareas - PyQt5](./Lista_de_Tareas)
+### [Lista de Tareas - PyQt5](./4.-%20Lista_de_Tareas)
 Aplicación de escritorio para gestión de tareas personales.
 * Creación y eliminación de tareas
 * Marcado de tareas completadas
