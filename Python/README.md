@@ -29,7 +29,7 @@ Proyecto de procesamiento de datos desde Excel aplicando transformaciones y limp
 
 ---
 
-### [Registro de Empleados - PyQt5](./Formulario)
+### [Registro de Empleados - PyQt5]([./Formulario](https://github.com/YolicLuna/Practicas_y_ejercicios_Datos_y_programacion/tree/main/Python/3.-%20Formulario))
 Aplicación de escritorio para gestión de empleados con exportación a Excel.
 * Interfaz gráfica (GUI)
 * Lógica de negocio (cálculo de sueldo neto)
