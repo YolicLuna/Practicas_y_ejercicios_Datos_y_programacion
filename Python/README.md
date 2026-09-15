@@ -9,7 +9,7 @@ Repositorio que contiene proyectos prácticos desarrollados en Python, enfocados
 
 ## 📁 Proyectos
 
-### [Tienda - Aplicación con Streamlit](./Tienda)
+### [Tienda - Aplicación con Streamlit]([./Tienda](https://github.com/YolicLuna/Practicas_y_ejercicios_Datos_y_programacion/tree/main/Python/1.-%20Tienda))
 Aplicación web interactiva para simular la compra de productos.
 * Manejo de estado con Streamlit
 * Cálculo de subtotales y total
