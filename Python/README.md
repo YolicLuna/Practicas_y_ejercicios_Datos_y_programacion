@@ -19,7 +19,7 @@ Aplicación web interactiva para simular la compra de productos.
 
 ---
 
-### [Transformación de Datos con Pandas](./Excel_Python)
+### [Transformación de Datos con Pandas]([./Excel_Python](https://github.com/YolicLuna/Practicas_y_ejercicios_Datos_y_programacion/tree/main/Python/2.-%20Excel_Python))
 Proyecto de procesamiento de datos desde Excel aplicando transformaciones y limpieza.
 * Generación de IDs
 * Normalización de datos
