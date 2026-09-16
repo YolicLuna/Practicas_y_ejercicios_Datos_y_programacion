@@ -6,3 +6,4 @@ snowflake-connector-python[pandas]
 snowflake-snowpark-python
 streamlit
 plotly
+scikit-learn
