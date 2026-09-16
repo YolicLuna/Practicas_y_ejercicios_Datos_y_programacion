@@ -13,6 +13,6 @@ config.json
 # Jupyter
 .ipynb_checkpoints/
 
-# Datos (opcional, según el caso)
-data/
-*.csv
+# Modelos entrenados
+*.joblib
+*.joblib.gz
