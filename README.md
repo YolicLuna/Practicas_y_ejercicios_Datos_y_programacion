@@ -1,5 +1,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-00758F.svg)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-29B5E8.svg)
 ![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
@@ -35,7 +36,7 @@ Cada carpeta representa un área de estudio. Para más detalles, consulta el REA
 
 ## Tecnologías utilizadas
 * **Python**: Pandas, NumPy, Streamlit, PyQt5, OpenPyXL.
-* **Bases de datos**: MySQL.
+* **Bases de datos**: MySQL, Snowflake Connector, Snowpark.
 * **Visualización**: Matplotlib, Seaborn.
 * **Otros**: Jupyter Notebook.
 
@@ -59,6 +60,16 @@ Cada carpeta representa un área de estudio. Para más detalles, consulta el REA
   * [Serie Temporal](./Python_datos/2.-%20Analisis_serie_temporal) - Análisis de datos financieros a lo largo del tiempo.
   * [Índice de Felicidad](./Python_datos/3.-%20Indice_de_felicidad) - Análisis comparativo del Índice de Felicidad Mundial.
   * [Superstore](./Python_datos/4.-%20Superstore_analisis) - Análisis de ventas y rentabilidad empresarial.
+
+---
+
+* **SnowflakePracticas/**
+  Prácticas de integración entre Python y Snowflake:
+  * [Conexión con Snowflake](./SnowflakePracticas/1.-python_snowflake.ipynb) - Conexión, consultas SQL y extracción de datos con Pandas.
+  * [Automatización](./SnowflakePracticas/2.-automatizacion.ipynb) - Carga de datos mediante `PUT` y `COPY INTO`.
+  * [Snowpark](./SnowflakePracticas/3.-snowpark.ipynb) - Transformación y agregación de datos con Snowpark.
+  * [Análisis predictivo y ML](./SnowflakePracticas/4.-Analisis_predictivo_y_ML.ipynb) - Regresión lineal y evaluación de modelos.
+  * [Dashboard de análisis](./SnowflakePracticas/Automatizacion_analisis_datos.py) - Aplicación interactiva con Streamlit, Snowpark y Plotly.
 
 ---
 
